@@ -1,5 +1,2 @@
 # LINEAR.PROGRAMMING
-ortools
-SciPy
-PulP
-pyomo
+(https://github.com/fabian200305/LINEAR.PROGRAMMING.git)
